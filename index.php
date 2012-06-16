@@ -4,4 +4,6 @@
 
 echo($_SERVER);
 
+asdasd
+
 ?>
